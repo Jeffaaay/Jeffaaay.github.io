@@ -1,0 +1,11 @@
+Fan-collage review assets, generated with the native imagegen tool on 2026-10-11.
+Reference: user-selected fan-collage-v1.png. Character identities: Saitama (One Punch Man), Luffy (One Piece), Felyne/Palico (Monster Hunter). This asset note is not a license grant or publication clearance.
+All four character PNGs have genuine alpha transparency. Generated separately to support independent web layers. No game audio or official screenshot file is distributed here.
+Concept.png is the prior generated review composition. Character pose transformation and Shader effects are implemented in code; these PNGs do not contain skeletal animations.
+Full prompts and test notes are in reviews/fan-collage/.
+
+2026-10-11 current manga correction:
+The user rejected the interim neon artwork. It is kept outside public runtime at reviews/fan-ensemble/rejected. Current fan.ts uses manga-trio, manga-sanji, manga-luffy, manga-zoro, field-palico and manga-storm. Five PNGs have actual alpha transparency; manga-storm is an opaque panorama. Trio depicts Saitama, Genos and Bang; other figures depict Sanji, Luffy, Zoro and a feline adventurer matched to the user's reference. Seven figures across five character illustrations. These are native imagegen redraws guided by the user's four latest reference images, not traced canonical source artwork. Current full prompts, reference identifiers and original output paths are in reviews/fan-manga-correction/ASSET_PROMPTS.txt. New assets are candidates awaiting visual review.
+
+2026-10-11 living-background extension:
+Native imagegen generated storm-clouds.png (opaque square), storm-tower.png (portrait alpha), cat-camp.png (opaque panorama) and manga-cape.png (portrait alpha) using the accepted manga-storm/trio/field-palico as references. Original images are retained unchanged. All four outputs were copied unmodified from Codex generated_images into public/fan. Cloud polar deformation and a separately pinned cape mesh are runtime animation, tower remains a separate static image. Prompts/reference paths: reviews/fan-living-works/ASSET_PROMPTS.json. This extension is a review candidate, not visual approval.

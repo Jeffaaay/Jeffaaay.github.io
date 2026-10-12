@@ -1,0 +1,8 @@
+{
+  "fov": 35,
+  "position": [0, 1.8, 5.4],
+  "target": [0, 0.1, 0],
+  "keyLight": [-0.55, 1, 0.62],
+  "sunAnchor": [0.55, 0.66],
+  "shadeAnchor": [0.66, 0.87]
+}

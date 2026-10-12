@@ -1,0 +1,31 @@
+Works illustrative photo credits
+
+These are third-party illustrations, not photographs of these projects.
+
+intrinsic-cover.webp
+Industrial robot in a laboratory; not the Intrinsic challenge or its results.
+Photo: Shixart1985
+Source: https://commons.wikimedia.org/wiki/File:Robot_arm_works_on_a_small_component_in_a_lab_setting.jpg
+License: CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/
+Cropped and resized; WebP conversion. The adapted image retains this license.
+
+amr-cover.webp
+Jungheinrich arculee M; not a Bayro robot.
+Photo: Marc Auledas Noguera
+Source: https://commons.wikimedia.org/wiki/File:Jungheinrich_Autonomous_Mobile_Robot_arculee_M.jpg
+License: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Cropped and resized; WebP conversion. The adapted image retains this license.
+
+wearable-motion-cover.webp
+Noitom IMU sensor; not the Shine Athletics prototype.
+Photo: Wikimocap
+Source: https://commons.wikimedia.org/wiki/File:A_Noitom_IMU_sensor.jpg
+License: CC BY-SA 4.0 — https://creativecommons.org/licenses/by-sa/4.0/
+Cropped and resized; WebP conversion. The adapted image retains this license.
+
+robotic-sorting-cover.webp
+FANUC arm and cylindrical objects; not this xArm/YOLO project.
+Photo: Shixart1985
+Source: https://commons.wikimedia.org/wiki/File:Robot_arm_picks_up_cylindrical_objects_in_a_factory_setting.jpg
+License: CC BY 2.0 — https://creativecommons.org/licenses/by/2.0/
+Cropped and resized; WebP conversion. The adapted image retains this license.

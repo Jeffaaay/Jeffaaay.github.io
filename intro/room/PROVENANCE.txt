@@ -1,0 +1,7 @@
+robotics-room-concept-v1.png
+Native built-in imagegen concept, generated from an original text prompt for this portfolio.
+No reference screenshots or third-party room assets were supplied as generation inputs.
+Use: static fallback when the separate procedural Three.js intro cannot render.
+This image is not the runtime 3D scene or a model of it.
+Full prompt: outputs/room-homepage-concept/PROMPT.txt in the parent workspace.
+User requested implementation after viewing the concept; final visuals remain subject to review.
